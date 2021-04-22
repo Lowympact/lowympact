@@ -3,7 +3,7 @@
 
 Here are some attempts
 
-> https://www.canva.com/design/DAEah1No1q4/ZFHYL_z-MpMmnvFYGo7rhA/edit
+> https://www.canva.com/design/DAEah1No1q4/HO5JS1tvklhUFqbrl61hrw/view?utm_content=DAEah1No1q4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ## Introduction to the subject
 
