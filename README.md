@@ -11,6 +11,12 @@ Final proposition from the 10/03/2021
 
 > https://drive.google.com/file/d/173HtS0QquKTjBxa0D0jQqoLsgOkNAKeB/view?usp=sharing
 
+## Features
+
+General description of the differents features
+
+> https://hackmd.io/@hexaone/Bk4a8tC8d
+
 ## Repositories
 
 ### REFERENCES
