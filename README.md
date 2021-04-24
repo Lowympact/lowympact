@@ -31,7 +31,7 @@ Link to our GitHub repository
 
 > https://github.com/Lowympact/lowympact-front
 
-Installation process is quite simple : run `git clone` and `npm install` into repository's folder. Use `npm dev` to start development server at `http://localhost:3000/`. If you want a production deployment just hit `npm start`.
+Installation process is quite simple : run `git clone` and `npm install` into repository's folder. Use `npm start` to start development server at `http://localhost:3000/`.
 
 ### BACK-END
 
