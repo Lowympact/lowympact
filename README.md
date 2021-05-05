@@ -11,6 +11,12 @@ Final proposition from the 10/03/2021
 
 > https://drive.google.com/file/d/173HtS0QquKTjBxa0D0jQqoLsgOkNAKeB/view?usp=sharing
 
+## Sources
+
+Following are some sources that helped us during our work
+- [Coton's traceability](https://github.com/solenebutruille/Blockchain_Cotton_Tracabilite)
+- [CO2 footprint compute](https://www.co2nnect.org/help_sheets/?op_id=602&opt_id=98)
+
 ## Features
 
 General description of the differents features
