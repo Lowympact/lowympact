@@ -11,6 +11,10 @@ Final proposition from the 10/03/2021
 
 > https://drive.google.com/file/d/173HtS0QquKTjBxa0D0jQqoLsgOkNAKeB/view?usp=sharing
 
+## Commercial video
+
+> https://drive.google.com/file/d/1TS-zcjohSiBu4trno0XB8PVEWYCX8QMU/view?usp=sharing
+
 ## Sources
 
 Following are some sources that helped us during our work
