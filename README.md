@@ -49,7 +49,7 @@ Link to our GitHub repository
 
 > https://github.com/Lowympact/lowympact-back
 
-Installation process is quite simple : run `git clone` and `npm install` into repository's folder. Use `npm dev` to start development server at `http://localhost:8080/`. If you want a production deployment just hit `npm start`. Do not forget to create your `.env` file with secrets into repository's forlder.
+Installation process is quite simple : run `git clone` and `npm install` into repository's folder. Use `npm run dev` to start development server at `http://localhost:8080/`. If you want a production deployment just hit `npm start`. Do not forget to create your `.env` file with secrets into repository's forlder.
 
 Swagger exposition is available at `http://localhost:8080/api-docs/`
 
