@@ -46,7 +46,7 @@ Installation process is quite simple : run `git clone` and `npm install` into re
 
 Swagger exposition is available at `http://localhost:8080/api-docs/`
 
-You would need the following .env file at the root of the back-end folder. In any case, GOOGLE_API_KEY is in restricted usage (accept requsts coming from https://api.lowympact.fr/ only) and won't works in local : 
+You would need the following .env file at the root of the back-end folder. In any case, GOOGLE_API_KEY is in restricted usage (accept requests coming from https://api.lowympact.fr/ only) and won't works in local : 
 ```
 PORT=8080
 MODE="development"
@@ -91,7 +91,7 @@ Located on Thibaut's Virtual Private Server :
 
 ## Graphic chart
 
-The graphic charter is located [here](https://www.canva.com/design/DAEah1No1q4/HO5JS1tvklhUFqbrl61hrw/view?utm_content=DAEah1No1q4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton).
+You can find the first models we made [here](https://drive.google.com/file/d/1tVLzX_o6eVDfy2V_gtjAe8ZO2xQjHl8H/view?usp=sharing).
 
 Our idea was to design a minimalist and easy to use application.
 
