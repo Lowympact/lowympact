@@ -1,9 +1,4 @@
 # PLD_SMART - **Lowympact** - *References*
-## Graphic chart
-
-Here are some attempts
-
-> https://www.canva.com/design/DAEah1No1q4/HO5JS1tvklhUFqbrl61hrw/view?utm_content=DAEah1No1q4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ## Introduction to the subject
 
@@ -14,12 +9,6 @@ Final proposition from the 10/03/2021
 ## Commercial video
 
 > https://drive.google.com/file/d/1TS-zcjohSiBu4trno0XB8PVEWYCX8QMU/view?usp=sharing
-
-## Sources
-
-Following are some sources that helped us during our work
-- [Coton's traceability](https://github.com/solenebutruille/Blockchain_Cotton_Tracabilite)
-- [CO2 footprint compute](https://www.co2nnect.org/help_sheets/?op_id=602&opt_id=98)
 
 ## Features
 
@@ -63,8 +52,6 @@ Installation process is quite simple : run `git clone` and `npm install` into re
 
 ## Stack
 
-*TODO : Describe the entire stack*
-
 > MERN x Solidity
 
 ## VPS
@@ -76,3 +63,16 @@ Installation process is quite simple : run `git clone` and `npm install` into re
 ### BACK-END
 
 > Located on Thibaut's Virtual Private Server : https://api.lowympact.fr/
+
+
+## Graphic chart
+
+Here are some attempts
+
+> https://www.canva.com/design/DAEah1No1q4/HO5JS1tvklhUFqbrl61hrw/view?utm_content=DAEah1No1q4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+## Sources
+
+Following are some sources that helped us during our work
+- [Coton's traceability](https://github.com/solenebutruille/Blockchain_Cotton_Tracabilite)
+- [CO2 footprint compute](https://www.co2nnect.org/help_sheets/?op_id=602&opt_id=98)
