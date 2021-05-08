@@ -18,7 +18,7 @@ General description of the differents features
 
 ## Installation / Using our application
 
-So as to use our application, you can simply go to lowympact.fr (preferably on your phone to have an optimal display). From here, you can use the application from your browser or install it on your phone by going to the settings of your browser (it's a Progressive Web App). You can also use our API : the documentation is located on api.lowympact.fr/api-docs
+So as to use our application, you can simply go to https://lowympact.fr (preferably on your phone to have an optimal display). From here, you can use the application from your browser or install it on your phone by going to the settings of your browser (it's a Progressive Web App). You can also use our API : the documentation is located on https://api.lowympact.fr/api-docs
 
 ## Repositories
 
@@ -42,11 +42,11 @@ Link to our GitHub repository
 
 > https://github.com/Lowympact/lowympact-back
 
-Installation process is quite simple : run `git clone` and `npm install` into repository's folder. Use `npm run dev` to start development server at `http://localhost:8080/`. If you want a production deployment just hit `npm start`. Do not forget to create your `.env` file with secrets into repository's forlder.
+Installation process is quite simple : run `git clone` and `npm install` into repository's folder. Use `npm run dev` to start development server at `http://localhost:8080/`. If you want a production deployment just hit `npm start`. Do not forget to create your `.env` file with secrets into repository's folder.
 
 Swagger exposition is available at `http://localhost:8080/api-docs/`
 
-You would need the following .env file at the root of the back-end folder :
+You would need the following .env file at the root of the back-end folder. In any case, GOOGLE_API_KEY is in restricted usage (accept requsts coming from https://api.lowympact.fr/ only) and won't works in local : 
 ```
 PORT=8080
 MODE="development"
