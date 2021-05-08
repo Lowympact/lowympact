@@ -16,6 +16,10 @@ General description of the differents features
 
 > https://hackmd.io/@hexaone/Bk4a8tC8d
 
+## Installation / Using our application
+
+To use our application, you can simply go to lowympact.fr (preferably on your phone to have an optimal display). From here, you can use the application from your browser or install it on your phone by going to the settings of your browser (it's a Progressive Web App). You can also use our API : the documentation is located on api.lowympact.fr/api-docs
+
 ## Repositories
 
 ### REFERENCES
