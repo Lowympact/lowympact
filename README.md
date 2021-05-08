@@ -18,7 +18,7 @@ General description of the differents features
 
 ## Installation / Using our application
 
-To use our application, you can simply go to lowympact.fr (preferably on your phone to have an optimal display). From here, you can use the application from your browser or install it on your phone by going to the settings of your browser (it's a Progressive Web App). You can also use our API : the documentation is located on api.lowympact.fr/api-docs
+So as to use our application, you can simply go to lowympact.fr (preferably on your phone to have an optimal display). From here, you can use the application from your browser or install it on your phone by going to the settings of your browser (it's a Progressive Web App). You can also use our API : the documentation is located on api.lowympact.fr/api-docs
 
 ## Repositories
 
@@ -46,6 +46,24 @@ Installation process is quite simple : run `git clone` and `npm install` into re
 
 Swagger exposition is available at `http://localhost:8080/api-docs/`
 
+You would need the following .env file at the root of the back-end folder :
+```
+PORT=8080
+MODE="development"
+
+MONGODBPWD="a2tLQrNuOhXk7eZg"
+MONGO_URI="mongodb+srv://lowympactBack:a2tLQrNuOhXk7eZg@cluster0.sx8sg.mongodb.net/lowympact?retryWrites=true&w=majority"
+
+LOCAL_NODE="http://localhost:7545"
+
+LOWYMPACTAPI_KEY="99d8fb95-abdd-4885-bf6c-3a81d8874043"
+
+GOOGLEAPI_KEY="AIzaSyBANw2u7J088INq1DrMS-dp9bLoYG41v7c"
+
+JWT_SECRET=dafegqaswiyasdg
+JWT_EXPIRE=30d
+```
+
 ### BLOCKCHAIN
 
 Link to our GitHub repository
@@ -56,24 +74,26 @@ Installation process is quite simple : run `git clone` and `npm install` into re
 
 ## Stack
 
-> MERN x Solidity
+MERN (MongoDB, Express, React, NodeJS) x Solidity
 
 ## VPS
 
 ### FRONT-END
 
-> Located on Corentin's Virtual Private Server : https://lowympact.fr/
+Located on Corentin's Virtual Private Server : 
+> https://lowympact.fr/
 
 ### BACK-END
 
-> Located on Thibaut's Virtual Private Server : https://api.lowympact.fr/
+Located on Thibaut's Virtual Private Server : 
+> https://api.lowympact.fr/
 
 
 ## Graphic chart
 
-Here are some attempts
+The graphic charter is located [here](https://www.canva.com/design/DAEah1No1q4/HO5JS1tvklhUFqbrl61hrw/view?utm_content=DAEah1No1q4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton).
 
-> https://www.canva.com/design/DAEah1No1q4/HO5JS1tvklhUFqbrl61hrw/view?utm_content=DAEah1No1q4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+Our idea was to design a minimalist and easy to use application.
 
 ## Sources
 
