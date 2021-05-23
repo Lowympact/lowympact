@@ -8,7 +8,7 @@ Final proposition from the 10/03/2021
 
 ## Commercial video
 
-> https://drive.google.com/file/d/1TS-zcjohSiBu4trno0XB8PVEWYCX8QMU/view?usp=sharing
+> https://www.youtube.com/watch?v=2itdfVuO2eo
 
 ## Features
 
